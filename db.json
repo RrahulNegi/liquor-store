@@ -1,0 +1,126 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Blenders Pride",
+      "description": "This is the Blenders Pride Whisky",
+      "price": 700,
+      "imgUrl": "assets/Blenders-Pride.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Budweiser",
+      "description": "This is the Budweiser Beer",
+      "price": 130,
+      "imgUrl": "assets/Budweiser.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Jameson",
+      "description": "This is the Jameson",
+      "price": 100,
+      "imgUrl": "assets/jameson.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Bira Beer",
+      "description": "This is the Bira beer",
+      "price": 100,
+      "imgUrl": "assets/Bira.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Signature Whisky",
+      "description": "This is the Signature whisky",
+      "price": 700,
+      "imgUrl": "assets/Signature.jpg"
+    }
+  ],
+  "cart": [
+    {
+      "product": {
+        "id": 3,
+        "name": "Jameson",
+        "description": "This is the Jameson",
+        "price": 100,
+        "imgUrl": "assets/jameson.jpg"
+      },
+      "id": 1
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Jameson",
+        "description": "This is the Jameson",
+        "price": 100,
+        "imgUrl": "assets/jameson.jpg"
+      },
+      "id": 2
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Budweiser",
+        "description": "This is the Budweiser Beer",
+        "price": 130,
+        "imgUrl": "assets/Budweiser.jpg"
+      },
+      "id": 3
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Blenders Pride",
+        "description": "This is the Blenders Pride Whisky",
+        "price": 700,
+        "imgUrl": "assets/Blenders-Pride.jpg"
+      },
+      "id": 4
+    },
+    {
+      "product": {
+        "id": 5,
+        "name": "Signature Whisky",
+        "description": "This is the Signature whisky",
+        "price": 700,
+        "imgUrl": "assets/Signature.jpg"
+      },
+      "id": 5
+    },
+    {
+      "product": {
+        "id": 5,
+        "name": "Signature Whisky",
+        "description": "This is the Signature whisky",
+        "price": 700,
+        "imgUrl": "assets/Signature.jpg"
+      },
+      "id": 6
+    }
+  ],
+  "wishlist": [
+    {
+      "id": 2
+    },
+    {
+      "id": 1
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
